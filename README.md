@@ -1,1 +1,1 @@
-# uts-teknik-kompilasi
+# uts-kecerdasan-buatan
